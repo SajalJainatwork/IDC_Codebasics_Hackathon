@@ -188,7 +188,3 @@ By combining Databricks Lakehouse architecture, machine learning, and analytics,
 
 ---
 
-## 👩‍💻 Author
-**Veena**  
-IDC × Codebasics Hackathon Participant
-
